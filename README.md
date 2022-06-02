@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jmml2021&label=Profile%20views&color=0e75b6&style=flat" alt="jmml2021" /> </p>
 
-- 🔭 I’m currently working on [Data Science with Vueling and EGO](https://github.com/JMML2021/Analisis-Compa-ia-Aerea-Espa-ola)
+- 🔭 I’m currently working on [Data Science as MBB with Vueling and EGO](https://github.com/JMML2021/Analisis-Compa-ia-Aerea-Espa-ola)
 
 - 🌱 I’m currently learning **Data Science**
 
