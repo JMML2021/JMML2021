@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Data analysis and Six Sigma**
+- 💬 Ask me about **Six Sigma & Lean**
 
 - 📫 How to reach me **jmmatas08@gmail.com**
 
